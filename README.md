@@ -1,8 +1,6 @@
-<h2 align="left">Olá 👋! Meu nome é Renato e eu sou um desenvolvedor Front-End formado e estou no caminho para a minha formação em FullStack!! 
-  <br>
-  Atualmente estou fazendo um curso FullStack na Kenzie Academy Brasil e me formarei em Janeiro de 2024, Além disso estou fazendo um curso de Java pela Udemy e um bootcamp de Python pelo Dio. Sou um desenvolvedor atraido 
-  pelo desafio, estou sempre buscando evoluir e aprender coisas novas. Após passa muito tempo cursando Arquitetura eu me encontrei no mundo da programação e hoje em dia eu venho me aprimorando cada dia mais.
-</h2>
+<h2 align="left">Olá 👋! Meu nome é Renato e eu sou um desenvolvedor Front-End formado e estou no caminho para a minha formação em FullStack!!</h2>
+  <p>Atualmente estou fazendo um curso FullStack na Kenzie Academy Brasil e me formarei em Janeiro de 2024, Além disso estou fazendo um curso de Java pela Udemy e um bootcamp de Python pelo Dio. Sou um desenvolvedor atraido pelo desafio, estou sempre buscando evoluir e aprender coisas novas. Após passa muito tempo cursando Arquitetura eu me encontrei no mundo da programação e hoje em dia eu venho me aprimorando cada dia mais.</p>
+
 
 ###
 
