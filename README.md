@@ -23,7 +23,7 @@
   <a href="https://www.instagram.com/rcoelhomf/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="+55 21 99615-012" target="_blank">
+  <a href="tellto:+55 21 99615-012" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
 </div>
@@ -61,9 +61,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/rcoelhomf/rcoelhomf/output/snake.svg" alt="Snake animation" />
 
 ###
