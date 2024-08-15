@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Atualmente estou fazendo um curso FullStack na Kenzie Academy Brasil e me formarei em Janeiro de 2024, Além disso estou fazendo um curso de Java pela Udemy e um bootcamp de Python pelo Dio. Sou um desenvolvedor atraido pelo desafio, estou sempre buscando evoluir e aprender coisas novas.</p>
+<p align="left">Atualmente faço faculdade de Analise e Desenvolvimento de Sistemas e trabalho como tal na Estasa soluções imobiliaria. Estou sempre em busca de me inovar e aprender novas maneiras de pensar e novas tecnologias. Busco sempre me inovar e estar sempre atualizado com as novidades do mercado.</p>
 
 ###
 
