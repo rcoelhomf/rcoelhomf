@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Atualmente faço faculdade de Analise e Desenvolvimento de Sistemas e trabalho como Desenvolvedor de Sistemas Junior na Estasa soluções Imobiliariás. Estou sempre em busca de me inovar e aprender novas maneiras de pensar e novas tecnologias. Busco sempre me inovar e estar sempre atualizado com as novidades do mercado.</p>
+<p align="left">Atualmente faço faculdade de Analise e Desenvolvimento de Sistemas e trabalho como Desenvolvedor Fullstack Junior na eStracta. Estou sempre em busca de me inovar e aprender novas maneiras de pensar e novas tecnologias. Busco sempre me inovar e estar sempre atualizado com as novidades do mercado.</p>
 
 ###
 
